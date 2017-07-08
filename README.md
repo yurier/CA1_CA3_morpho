@@ -1,4 +1,4 @@
 # CA1_CA3_morpho
 Morphometric measures extracted from CA1 and CA3 neuron reconstructions using L-measure.
-The name list in included in the CSV.
+The name of neurons in included in the CSV.
 Feature description is described in the L-measure online FAQ.
